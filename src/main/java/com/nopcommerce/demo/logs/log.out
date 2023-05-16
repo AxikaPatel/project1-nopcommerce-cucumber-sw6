@@ -74,3 +74,48 @@
 2023-05-16 10:05:667 INFO  HomePage :55 - Select shopping option : [[ChromeDriver: chrome on WINDOWS (2a77aff1c719fdb6e504e9848f53330b)] -> xpath: //select[@id='products-orderby']]
 2023-05-16 10:05:925 INFO  HomePage :68 - Click on add to cart by product name : 
 2023-05-16 10:05:25 INFO  HomePage :65 - Get text Build your own computer Tex : [[ChromeDriver: chrome on WINDOWS (2a77aff1c719fdb6e504e9848f53330b)] -> xpath: //h1[normalize-space()='Build your own computer']]
+2023-05-16 22:05:436 INFO  HomePage :104 - Select Electronics menu : [[ChromeDriver: chrome on WINDOWS (d5cda45959b433d9b428a7f86df52c90)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 22:05:629 INFO  HomePage :113 - Select mobile phone menu : [[ChromeDriver: chrome on WINDOWS (d5cda45959b433d9b428a7f86df52c90)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 22:05:310 INFO  CellPhonePage :61 - Get Cell Phone Text : [[ChromeDriver: chrome on WINDOWS (d5cda45959b433d9b428a7f86df52c90)] -> xpath: //h1[normalize-space()='Cell phones']]
+2023-05-16 22:05:175 INFO  HomePage :104 - Select Electronics menu : [[ChromeDriver: chrome on WINDOWS (4e5acaa0974e51664cca57b53e35b4de)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 22:05:340 INFO  HomePage :113 - Select mobile phone menu : [[ChromeDriver: chrome on WINDOWS (4e5acaa0974e51664cca57b53e35b4de)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 22:05:338 INFO  CellPhonePage :61 - Get Cell Phone Text : [[ChromeDriver: chrome on WINDOWS (4e5acaa0974e51664cca57b53e35b4de)] -> xpath: //h1[normalize-space()='Cell phones']]
+2023-05-16 22:05:385 INFO  CellPhonePage :69 - Click on List View Icon  : [[ChromeDriver: chrome on WINDOWS (4e5acaa0974e51664cca57b53e35b4de)] -> xpath: //a[normalize-space()='List']]
+2023-05-16 22:05:482 INFO  CellPhonePage :81 - Click on Phone option  : 
+2023-05-16 22:05:568 INFO  HomePage :49 - Click on computer menu : [[ChromeDriver: chrome on WINDOWS (6b2242365300999438438f225a8cf427)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-05-16 22:05:367 INFO  HomePage :49 - Click on computer menu : [[ChromeDriver: chrome on WINDOWS (7efa520ae2a6a512a4c86736e59feb5e)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-05-16 22:05:291 INFO  ComputerPage :55 - Select shopping option : [[ChromeDriver: chrome on WINDOWS (7efa520ae2a6a512a4c86736e59feb5e)] -> xpath: //select[@id='products-orderby']]
+2023-05-16 22:05:435 INFO  ComputerPage :68 - Click on add to cart by product name : 
+2023-05-16 22:05:554 INFO  BuildYourOwnComputerPage :65 - Get text Build your own computer Tex : [[ChromeDriver: chrome on WINDOWS (7efa520ae2a6a512a4c86736e59feb5e)] -> xpath: //h1[normalize-space()='Build your own computer']]
+2023-05-16 22:05:935 INFO  LoginPage :59 - Click on login button : [[ChromeDriver: chrome on WINDOWS (743a1bac03f7dfb1869232eae4d4e311)] -> xpath: //a[normalize-space()='Log in']]
+2023-05-16 22:05:829 INFO  LoginPage :42 - Verify welcome message : [[ChromeDriver: chrome on WINDOWS (743a1bac03f7dfb1869232eae4d4e311)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-05-16 22:05:783 INFO  ElectronicsPage :43 - Select Menu : Electronics
+2023-05-16 22:05:806 INFO  ElectronicsPage :31 - Get Electronic Tab Text :[[ChromeDriver: chrome on WINDOWS (743a1bac03f7dfb1869232eae4d4e311)] -> xpath: //h1[normalize-space()='Electronics']]
+2023-05-16 22:05:46 INFO  HomePage :104 - Select Electronics menu : [[ChromeDriver: chrome on WINDOWS (fc9b56c43304e138b105bf0f15ad2d7f)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 22:05:225 INFO  HomePage :113 - Select mobile phone menu : [[ChromeDriver: chrome on WINDOWS (fc9b56c43304e138b105bf0f15ad2d7f)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 22:05:427 INFO  CellPhonePage :61 - Get Cell Phone Text : [[ChromeDriver: chrome on WINDOWS (fc9b56c43304e138b105bf0f15ad2d7f)] -> xpath: //h1[normalize-space()='Cell phones']]
+2023-05-16 22:05:502 INFO  CellPhonePage :69 - Click on List View Icon  : [[ChromeDriver: chrome on WINDOWS (fc9b56c43304e138b105bf0f15ad2d7f)] -> xpath: //a[normalize-space()='List']]
+2023-05-16 22:05:637 INFO  CellPhonePage :81 - Click on Phone option  : 
+2023-05-16 22:05:544 INFO  CellPhonePage :93 - Get Product name Text  : [[ChromeDriver: chrome on WINDOWS (fc9b56c43304e138b105bf0f15ad2d7f)] -> xpath: //h1[normalize-space()='Nokia Lumia 1020']]
+2023-05-16 22:05:600 INFO  CellPhonePage :105 - Get Price Text  : [[ChromeDriver: chrome on WINDOWS (fc9b56c43304e138b105bf0f15ad2d7f)] -> xpath: //div[@class='product-price']//span[normalize-space()='$349.00']]
+2023-05-16 22:05:647 INFO  CellPhonePage :117 - Update the order qty.  : [[ChromeDriver: chrome on WINDOWS (fc9b56c43304e138b105bf0f15ad2d7f)] -> xpath: //input[@id='product_enteredQuantity_20']]
+2023-05-16 22:05:38 INFO  CellPhonePage :129 - Click on add to cart button  : [[ChromeDriver: chrome on WINDOWS (fc9b56c43304e138b105bf0f15ad2d7f)] -> xpath: //button[@id='add-to-cart-button-20']]
+2023-05-16 22:05:191 INFO  CellPhonePage :141 - Verify product added successfully in shopping cart  : [[ChromeDriver: chrome on WINDOWS (fc9b56c43304e138b105bf0f15ad2d7f)] -> xpath: //div[@id='bar-notification']]
+2023-05-16 22:05:263 INFO  CellPhonePage :163 - Close the notification bar  : [[ChromeDriver: chrome on WINDOWS (fc9b56c43304e138b105bf0f15ad2d7f)] -> xpath: //body/div[@id='bar-notification']/div[1]/span[1]]
+2023-05-16 22:05:399 INFO  ShoppingCartPage :123 - Click on shopping cart button : [[ChromeDriver: chrome on WINDOWS (fc9b56c43304e138b105bf0f15ad2d7f)] -> xpath: //span[@class='cart-label']]
+2023-05-16 22:05:581 INFO  ShoppingCartPage :134 - Click on got to cart button : [[ChromeDriver: chrome on WINDOWS (fc9b56c43304e138b105bf0f15ad2d7f)] -> xpath: //button[normalize-space()='Go to cart']]
+2023-05-16 22:05:808 INFO  ShoppingCartPage :54 - Verify shopping cart message : Proxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Shopping cart']'
+2023-05-16 22:05:381 INFO  HomePage :104 - Select Electronics menu : [[ChromeDriver: chrome on WINDOWS (5f18e183a9bbf0900a625d1feb5ab313)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 22:05:551 INFO  HomePage :113 - Select mobile phone menu : [[ChromeDriver: chrome on WINDOWS (5f18e183a9bbf0900a625d1feb5ab313)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 22:05:288 INFO  CellPhonePage :61 - Get Cell Phone Text : [[ChromeDriver: chrome on WINDOWS (5f18e183a9bbf0900a625d1feb5ab313)] -> xpath: //h1[normalize-space()='Cell phones']]
+2023-05-16 22:05:356 INFO  CellPhonePage :69 - Click on List View Icon  : [[ChromeDriver: chrome on WINDOWS (5f18e183a9bbf0900a625d1feb5ab313)] -> xpath: //a[normalize-space()='List']]
+2023-05-16 22:05:475 INFO  CellPhonePage :81 - Click on Phone option  : 
+2023-05-16 22:05:928 INFO  HomePage :104 - Select Electronics menu : Proxy element for: DefaultElementLocator 'By.xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']'
+2023-05-16 22:05:855 INFO  HomePage :49 - Click on computer menu : [[ChromeDriver: chrome on WINDOWS (7485d6debc80028126626ff06ba97f34)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-05-16 22:05:820 INFO  ComputerPage :55 - Select shopping option : [[ChromeDriver: chrome on WINDOWS (7485d6debc80028126626ff06ba97f34)] -> xpath: //select[@id='products-orderby']]
+2023-05-16 22:05:93 INFO  ComputerPage :68 - Click on add to cart by product name : 
+2023-05-16 22:05:183 INFO  BuildYourOwnComputerPage :65 - Get text Build your own computer Tex : [[ChromeDriver: chrome on WINDOWS (7485d6debc80028126626ff06ba97f34)] -> xpath: //h1[normalize-space()='Build your own computer']]
+2023-05-16 22:05:64 INFO  LoginPage :59 - Click on login button : [[ChromeDriver: chrome on WINDOWS (8bdf53bdf0aea8cb93f404ee0e42e2d2)] -> xpath: //a[normalize-space()='Log in']]
+2023-05-16 22:05:982 INFO  LoginPage :42 - Verify welcome message : [[ChromeDriver: chrome on WINDOWS (8bdf53bdf0aea8cb93f404ee0e42e2d2)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-05-16 22:05:865 INFO  ElectronicsPage :43 - Select Menu : Electronics
+2023-05-16 22:05:881 INFO  ElectronicsPage :31 - Get Electronic Tab Text :[[ChromeDriver: chrome on WINDOWS (8bdf53bdf0aea8cb93f404ee0e42e2d2)] -> xpath: //h1[normalize-space()='Electronics']]

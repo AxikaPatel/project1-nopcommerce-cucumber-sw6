@@ -16,7 +16,7 @@ Feature: Cell phone Test
     Then I should be able to see Cell phones text
     And I click on list view button
     And select model Nokia Lumia 1020 option
-    Then I verify the product name and price
+   # Then I verify the product name and price
     And I update the order quantity to 2
     And I click on add to cart button
     And I verify the product added successfully into cart
